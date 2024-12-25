@@ -1,0 +1,56 @@
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+  font-size: 20px;
+}
+
+.skyblue {
+  color: skyblue;
+}
+
+.pink {
+  color: rgb(255, 192, 203);
+}
+
+.google-fonts {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  html {
+    font-size: 20px;
+}
+
+  h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 2em; /* ルート要素の2倍のフォントサイズ */
+  text-align: center;
+  text-shadow: 1px 2px 3px #808080; 
+}
+
+
+.decoration {
+  letter-spacing: 1.2em;
+  border-bottom: solid 3px rgb(115, 115, 114)
+}
+
+
+p{
+  text-align: center;
+}
+
+
+h2{
+  text-align: center;
+} 
+
+  #basic{
+    font-weight:bold;
+  }
+
+
+
+ 
+
+  
